@@ -1,0 +1,15 @@
+
+/* Media page*/
+
+@media screen and (max-width: 900px) and (min-width: 600px) {
+  h3 {
+    background-color: blue;
+  }
+}
+
+@media screen and (min-width: 1600px) and (max-width: 3000px) {
+  #text {
+    margin-top: 50px;
+
+  }
+}
